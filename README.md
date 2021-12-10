@@ -2,7 +2,7 @@
      alt="Flutter Logo" /> </a>
 # Flutter Preformance Demo
 
-This source code is to be used for reference in "How Flutter Apps achieve great preformance" workshop. The purpose is to demonestrate how flutter render it is widget 
+This source code is used for reference in the "How Flutter Apps achieve great performance" workshop. The purpose is to demonstrate how flutter render it is a widget 
 
 # Demo 
 <img height="350px" src="screenshots/screenshot.gif"
